@@ -1,0 +1,5 @@
+venv
+Celery_Project/celery_app/__pycache__
+Celery_Project/celery_app/migrations/__pycache__
+Celery_Project/Celery_Project/__pycache__
+Celery_Project/db.sqlite3
